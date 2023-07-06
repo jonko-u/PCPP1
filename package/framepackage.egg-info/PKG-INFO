@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: framepackage
+Version: 1.0.0
+Summary: A simple package for drawing frames around text
+Home-page: https://github.com/yourusername/frame
+Author: Your Name
+Author-email: your_email@example.com
+License: MIT
+Keywords: framepackage drawing text
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# My Package
+
+This is a Python package that includes a module for parsing weather forecast data.
+
+## Installation
+
+To install the package, run the following command:
+## Usage
+
+To use the package, import the `frame` submodule and create a new `Frame` object:
+
+```python
+from my_package.frame import Frame
+
+frame = Frame('path/to/forecast.xml')

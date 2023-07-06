@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<shop>
+  <category name="Vegan Products">
+    <product name="Good Morning Sunshine">
+      <type>cereals</type>
+      <producer>OpenEDG Testing Service</producer>
+      <price>9.90</price>
+      <currency>USD</currency>
+    </product>
+    <product name="Spaghetti Veganietto">
+      <type>pasta</type>
+      <producer>Programmers Eat Pasta</producer>
+      <price>15.49</price>
+      <currency>EUR</currency>
+    </product>
+    <product name="Fantastic Almond Milk">
+      <type>beverages</type>
+      <producer>Drinks4Coders Inc.</producer>
+      <price>19.75</price>
+      <currency>USD</currency>
+    </product>
+  </category>
+</shop>

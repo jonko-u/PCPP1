@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "make": "klk",
+    "model": "klk",
+    "year": "1000"
+  },
+  {
+    "id": 2,
+    "make": "klk",
+    "model": "klk",
+    "year": "1"
+  },
+  {
+    "id": 3,
+    "make": "Chevrolet",
+    "model": "Fusion",
+    "year": 2001
+  },
+  {
+    "id": 4,
+    "make": "Toyota",
+    "model": "Accord",
+    "year": 2001
+  },
+  {
+    "id": 5,
+    "make": "gg",
+    "model": "gg",
+    "year": "1"
+  },
+  {
+    "id": 6,
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2001
+  },
+  {
+    "id": 7,
+    "make": "Honda",
+    "model": "Cruze",
+    "year": 2022
+  },
+  {
+    "id": 8,
+    "make": "Ford",
+    "model": "Fusion",
+    "year": 2007
+  },
+  {
+    "id": 9,
+    "make": "Honda",
+    "model": "Cruze",
+    "year": 2012
+  },
+  {
+    "id": 11,
+    "make": "ey",
+    "model": "mk",
+    "year": "1023"
+  },
+  {
+    "id": 12,
+    "make": "klk",
+    "model": "klk",
+    "year": "1000"
+  }
+]

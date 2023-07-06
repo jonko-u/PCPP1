@@ -1,0 +1,9 @@
+<cars_for_sale>
+   <car>
+      <id>2</id>
+      <brand>Aston Martin</brand>
+      <model>Rapide</model>
+      <production_year>2010</production_year>
+      <price currency="GBP">32000</price>
+   </car>
+<car><id>4</id><brand>Maserati</brand><model>Mexico</model><production_year>1970</production_year><price currency="EUR">61800</price></car></cars_for_sale>

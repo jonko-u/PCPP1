@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!-- cars.xml - List of cars ready to sell -->
+<!DOCTYPE cars_for_sale SYSTEM "cars.dtd">
+<cars_for_sale>
+   <car>
+      <id>1</id>
+      <brand>Ford</brand>
+      <model>Mustang</model>
+      <production_year>1972</production_year>
+      <price currency="USD">35900</price>
+   </car>
+   <car>
+      <id>2</id>
+      <brand>Aston Martin</brand>
+      <model>Rapide</model>
+      <production_year>2010</production_year>
+      <price currency="GBP">32000</price>
+   </car>
+</cars_for_sale>
